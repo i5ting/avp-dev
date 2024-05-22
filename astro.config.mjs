@@ -5,7 +5,7 @@ import starlight from "@astrojs/starlight";
 export default defineConfig({
   integrations: [
     starlight({
-      title: "vision pro",
+      title: "Vision Pro",
       social: {
         github: "https://github.com/i5ting/avp-dev",
       },
